@@ -1,0 +1,26 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1687230093787,
+            "name": "D:\\Bootcamp2\\3.0 NodeJs\\node-typescript-starter\\logs\\access.2023-06-20.log",
+            "hash": "e70188fce5b8f3b7c658342e26812020"
+        },
+        {
+            "date": 1687252956649,
+            "name": "D:\\Bootcamp2\\3.0 NodeJs\\labs\\node-typescript-lab001\\logs\\access.2023-06-20.log",
+            "hash": "fcb26bb74602b5699a76362e03f2dc12"
+        },
+        {
+            "date": 1687309943693,
+            "name": "D:\\Bootcamp2\\3.0 NodeJs\\labs\\node-typescript-lab001\\logs\\access.2023-06-21.log",
+            "hash": "678f62317a326bf8031ab6529faea295"
+        }
+    ]
+}
